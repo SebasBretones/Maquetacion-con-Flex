@@ -24,5 +24,5 @@ Creative Commons
 
 ## Recursos adicionales:
 
-## Link a la propia página de GitHub
+### Link a la propia página de GitHub
 [GitHubPropio] https://github.com/SebasBretones
